@@ -1,0 +1,17 @@
+{
+  "name": "jest_traversy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "testwatch": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "jest": "^23.5.0",
+    "npm": "^6.4.0"
+  }
+}
